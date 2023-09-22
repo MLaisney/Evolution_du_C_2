@@ -1,4 +1,0 @@
-Je peux ecrire une phrase dans ce fichier.
-48.9845
-J'ai18 ans. Je suis majeur.
-Je rajoute une ligne dans mon fichier.
