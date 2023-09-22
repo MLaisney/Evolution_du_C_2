@@ -1,11 +1,10 @@
 #include <iostream>
 #include <fstream>
-#include <string>
 using namespace std;
 int main()
 {
-    string const nomFichier("C:/c/scores.txt");
-    ofstream monFlux(nomFichier.c_str());
+    ofstream monFlux;
+    monFlux.open("/c/score.txt");
     if (monFlux)
     {}
     else
